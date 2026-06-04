@@ -1,0 +1,16 @@
+.ant,
+.dec {
+    font-size: 28px;
+    ;font-family: sans-serif;
+}
+
+.ant {
+    color: white;
+    background-color: black;
+    
+}
+
+.dec {
+    background-color: yellow;
+}
+    
